@@ -1,0 +1,23 @@
+Script started on Sat Nov 13 17:38:40 2021
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ md kdor  ir fi older1 folder2
+bash-3.2$ touch file1.txt file2.txt file3.txt
+bash-3.2$ mv file1.txt ~/folder1
+bash-3.2$ touch file1.txt
+bash-3.2$ mv ~desktop/command-line-and-git-assessment-faisamain  //desktop/command-line-and-git-assessment-faisamain/bash-3.2$ mv ~/bash-3.2$ mv ~/dbash-3.2$ mv ~/debash-3.2$ mv ~/desbash-3.2$ mv ~/deskbash-3.2$ mv ~/desktbash-3.2$ mv ~/desktobash-3.2$ mv ~/desktopbash-3.2$ mv ~/desktop/bash-3.2$ mv ~/desktop/cbash-3.2$ mv ~/desktop/cobash-3.2$ mv ~/desktop/combash-3.2$ mv ~/desktop/commbash-3.2$ mv ~/desktop/commabash-3.2$ mv ~/desktop/commanbash-3.2$ mv ~/desktop/commandbash-3.2$ mv ~/desktop/command-bash-3.2$ mv ~/desktop/command-lbash-3.2$ mv ~/desktop/command-libash-3.2$ mv ~/desktop/command-linbash-3.2$ mv ~/desktop/command-linebash-3.2$ mv ~/desktop/command-line-bash-3.2$ mv ~/desktop/command-line-abash-3.2$ mv ~/desktop/command-line-anbash-3.2$ mv ~/desktop/command-line-andbash-3.2$ mv ~/desktop/command-line-and-bash-3.2$ mv ~/desktop/command-line-and-gbash-3.2$ mv ~/desktop/command-line-and-gibash-3.2$ mv ~/desktop/command-line-and-gitbash-3.2$ mv ~/desktop/command-line-and-git-bash-3.2$ mv ~/desktop/command-line-and-git-abash-3.2$ mv ~/desktop/command-line-and-git-asbash-3.2$ mv ~/desktop/command-line-and-git-assbash-3.2$ mv ~/desktop/command-line-and-git-assebash-3.2$ mv ~/desktop/command-line-and-git-assesbash-3.2$ mv ~/desktop/command-line-and-git-assessbash-3.2$ mv ~/desktop/command-line-and-git-assessmbash-3.2$ mv ~/desktop/command-line-and-git-assessmebash-3.2$ mv ~/desktop/command-line-and-git-assessmenbash-3.2$ mv ~/desktop/command-line-and-git-assessmentbash-3.2$ mv ~/desktop/command-line-and-git-assessment-bash-3.2$ mv ~/desktop/command-line-and-git-assessment-fbash-3.2$ mv ~/desktop/command-line-and-git-assessment-fabash-3.2$ mv ~/desktop/command-line-and-git-assessment-faibash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisbash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisabash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisambash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisamabash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisamaibash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisamainbash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisamain/file1.txt ~/<and-line-and-git-assessment-faisamain/file1.txt ~/d                         esktop/command-line-and-g<t-faisamain/file1.txt ~/desktop/command-line-and-gi                         t-assessment-faisamain  /fo<sktop/command-line-and-git-assessment-faisamain/fol                         der1.fil    /file1.txt
+bash-3.2$ mv ~/desktop/command-line-and-git-assessment-faisamain  /file2.txt ~/<and-line-and-git-assessment-faisamain/file2.txt ~/d                         esktop/command-line-and-g<t-faisamain/file2.txt ~/desktop/command-line-and-gi                         t-assessment-faisamain  /fo<sktop/command-line-and-git-assessment-faisamain/fol                         der2. // file2.txt
+bash-3.2$ cd folder1
+bash-3.2$ ls
+file1.txt
+bash-3.2$ pwd
+/Users/abdikadirdhahir/desktop/command-line-and-git-assessment-faisamain/folder1
+bash-3.2$ cd -
+/Users/abdikadirdhahir/desktop/command-line-and-git-assessment-faisamain
+bash-3.2$ rm file3.txt
+bash-3.2$ exit
+exit
+
+Script done on Sat Nov 13 17:50:09 2021
